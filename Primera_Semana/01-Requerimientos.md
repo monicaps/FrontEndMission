@@ -1,10 +1,10 @@
 # Especificación de Requisitos según el estándar IEEE 830
 
 ## Índice
-- 1. Introducción
-- 2. Descripción General
-- 3. Requisitos Específicos
-- 4. Apéndices 
+- 1.Introducción
+- 2.Descripción General
+- 3.Requisitos Específicos
+- 4.Apéndices 
 
 ## 1. Introducción
 
